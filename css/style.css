@@ -159,7 +159,10 @@ nav ul li a {
 	text-transform: capitalize;
 	transition: 0.4s;
 }
-    #toggles{
+    #menu{
+	    background-color:red;
+    }
+#toggles{
 					 color:var(--bgColor-2);
     font-size: 1.75em;
     transition: 0.5s;
